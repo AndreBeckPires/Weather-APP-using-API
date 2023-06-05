@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+}
+#div{
+    border-style: solid;
+    border-radius: 10%;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#content{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
